@@ -16,3 +16,6 @@ Jos pelaaja ei pysy tahdissa, hänen täytyy silti painaa nappeja järjestyksess
 ⋅ ledien lisääminen / poisto  
 ⋅ eri pelimuotoja  
 * Muuta...  
+
+## Kommentit
+Tarkoituksena ei ollut tehdä mitään kaupallista peliä tai muuta, vaan oppia miten ohjelmakoodilla voidaan vaikuttaa tietokoneen ulkopuolelle. Valitsin kyseisen nopeustesti-idean, koska se tuntui helpolta toteuttaa. Samalla saan vähän käytännön harjoitusta mm. GitHubin käytöstä ja Pythonista.
