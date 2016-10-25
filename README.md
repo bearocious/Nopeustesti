@@ -1,5 +1,5 @@
 # Nopeustesti
-Pythonilla kirjoitettu nopeustesti PocketC.H.I.P:ille. Yhdistää ohjelmakoodin sekä fyysisen elektroniikan.
+#### Pythonilla kirjoitettu nopeustesti PocketC.H.I.P:ille. Yhdistää ohjelmakoodin sekä fyysisen elektroniikan.
 
 Pelin tarkoituksena on painaa nappeja valon tahdissa. Koodi sisältää ajastimen, joka arpoo pelaajan asettaman väliajan välein jonkun valon neljästä. Jos pelaaja painaa väärää nappia niin peli päättyy.
 
