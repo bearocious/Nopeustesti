@@ -11,7 +11,7 @@ Jos pelaaja ei pysy tahdissa, hänen täytyy silti painaa nappeja järjestyksess
 
 ## Lisättävää
 *USB-ohjain -tuki
-*Valikko
-⋅⋅* uudelleen käynnistys suoraan koodissa
-⋅⋅* ledien lisääminen / poisto
-⋅⋅* eri pelimuotoja
+*Valikko  
+⋅⋅* uudelleen käynnistys suoraan koodissa  
+⋅⋅* ledien lisääminen / poisto  
+⋅⋅* eri pelimuotoja  
