@@ -10,8 +10,9 @@ Jos pelaaja ei pysy tahdissa, hänen täytyy silti painaa nappeja järjestyksess
 [Mistä idea lähti](https://www.youtube.com/watch?v=OFuYpUqqYDE&user=UCAcHTMDb4mxAHF0EH_HYS_Q)
 
 ## Lisättävää
-*USB-ohjain -tuki
-*Valikko  
-⋅⋅* uudelleen käynnistys suoraan koodissa  
-⋅⋅* ledien lisääminen / poisto  
-⋅⋅* eri pelimuotoja  
+* USB-ohjain -tuki
+* Valikko  
+⋅ uudelleen käynnistys suoraan koodissa  
+⋅ ledien lisääminen / poisto  
+⋅ eri pelimuotoja  
+* Muuta...  
