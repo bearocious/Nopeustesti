@@ -1,9 +1,9 @@
 # Nopeustesti
 Pythonilla kirjoitettu nopeustesti PocketC.H.I.P:ille. Yhdistää ohjelmakoodin sekä fyysisen elektroniikan.
 
-Pelin ideana on painaa nappeja valon tahdissa. Koodi sisältää ajastimen, joka arpoo pelaajan asettaman väliajan välein jonkun valon neljästä.
+Pelin tarkoituksena on painaa nappeja valon tahdissa. Koodi sisältää ajastimen, joka arpoo pelaajan asettaman väliajan välein jonkun valon neljästä. Jos pelaaja painaa väärää nappia niin peli päättyy.
 
-Jos pelaaja ei ehdi painaa nappia valon syttyessä, niin hänen täytyy silti painaa nappeja oikeassa järjestyksessä ([esim.](https://youtu.be/KgpQJx6T7bk?t=156))
+Jos pelaaja ei pysy tahdissa, hänen täytyy silti painaa nappeja järjestyksessä. ([esim.](https://youtu.be/KgpQJx6T7bk?t=156))
 
 [Demo](https://youtu.be/KgpQJx6T7bk)
 
